@@ -513,7 +513,7 @@
             {
                 id: 1,
                 nombre: "Manual de Procedimientos 2024.pdf",
-                ruta: "Dialnet-RevistasCientificasMexicanasRetosDeCalidadYVisibil-709996.pdf",
+                ruta: "Formatos/Dialnet-RevistasCientificasMexicanasRetosDeCalidadYVisibil-709996.pdf",
                 tamaño: "2.5 MB",
                 fecha: "2024-03-15",
                 tipo: "PDF",
